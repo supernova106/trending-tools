@@ -15,6 +15,7 @@ Curated list of trending tools we should keep an eye on
 - [Meta Opensource](https://github.com/facebook)
 - [Thoughtworks Radar](https://www.thoughtworks.com/radar)
 - [Netflix OSS](https://netflix.github.io/)
+- awesome-* Github
 
 ## Good reads
 
