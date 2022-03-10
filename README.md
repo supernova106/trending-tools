@@ -5,6 +5,7 @@ Curated list of trending tools we should keep an eye on
 
 - distroless
 - bazel
+- rust
 
 ## References
 - [CNCF Landscape](https://landscape.cncf.io/)
